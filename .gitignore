@@ -50,3 +50,9 @@ build/
 
 # Lucene index files (if generated locally)
 index/
+
+# Backup files
+*_back
+*.bak
+*.backup
+*~
